@@ -1,0 +1,55 @@
+C\Documents\DolphinData.txt
+C\Documents\FoxData.txt
+C\Documents\LoinData.txt
+C\Documents\OwlData.txt
+C\Documents\PenguinData.txt
+C\Documents\TigerData.txt
+
+C\Documents\Car Data\Civic.txt
+C\Documents\Car Data\Ford Mustang.txt
+C\Documents\Car Data\Jeep Wrangler.txt
+C\Documents\Car Data\Lamborghini Aventador.txt
+C\Documents\Car Data\Swift.txt
+C\Documents\Car Data\Porsche 911.txt
+C\Documents\Car Data\Tesla Model S.txt
+C\Documents\Car Data\Toyota Corolla.txt
+C\Documents\Car Data\Toyota Prius.txt
+C\Documents\Car Data\Vitz.txt
+C\Documents\Car Data\Volkswagen Beetle.txt
+
+C\Downloads\Basketball.txt
+C\Downloads\Books.txt
+C\Downloads\Camera.txt
+C\Downloads\Coffee.txt
+C\Downloads\FoxData.txt
+C\Downloads\Game Setup.txt
+C\Downloads\Guitar.txt
+C\Downloads\Mountains.txt
+C\Downloads\Paintbrush.txt
+C\Downloads\Sailboat.txt
+C\Downloads\Telescope.txt
+C\Downloads\VS code.txt
+
+C\Peronal Data\My Data.txt
+C\Peronal Data\The Artist.txt
+C\Peronal Data\The Athlete.txt
+C\Peronal Data\The Musician.txt
+C\Peronal Data\The Teacher.txt
+C\Peronal Data\The Scientist.txt
+
+C\Peronal Data\RandomData\Backpack.txt
+C\Peronal Data\RandomData\Champagne.txt
+C\Peronal Data\RandomData\Compass.txt
+C\Peronal Data\RandomData\Diamond.txt
+C\Peronal Data\RandomData\Kite.txt
+C\Peronal Data\RandomData\Lighthouse.txt
+C\Peronal Data\RandomData\Microscope.txt
+C\Peronal Data\RandomData\Piano.txt
+C\Peronal Data\RandomData\Sunglasses.txt
+C\Peronal Data\RandomData\Violin.txt
+
+
+
+10 25 30 42 54 62
+
+
